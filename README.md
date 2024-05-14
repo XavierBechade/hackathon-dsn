@@ -1,20 +1,17 @@
-# Hackathon DSN
+# Hackathon DSN 
+# Equipe DGEFP - DNUM 
 
 Dépôt pour le Hackathon DSN organisé par la Direction interministérielle du numérique.
 
 **📙 Retrouvez le Guide du participant sur Outline en cliquant [ici](https://documentation.beta.numerique.gouv.fr/doc/guide-hackathon-dsn-Vvxa7bq3O0)**
 
-## 👩‍💻 Comment participer ? 
 
-Pour participer au Hackathon vous devez créer un dépôt public (vous pouvez par exemple partir d'un fork de ce dépôt en cliquant [ici](https://github.com/etalab-ia/Hackathon-DSN/fork) puis sur *"Create fork"*).
+Ce dépôt est utilisé pour l'évaluation du  projet DGEFP-DNUM à l'issu du Hackathon ! 
 
-Votre dépôt servira pour l'évaluation de votre projet à l'issu du Hackathon ! 
-
-Bon courage 🔥!
 
 ## 🌸 Rendu
 
-Pour évaluer votre projet merci de compléter ce README avec les informations suivantes : 
+Pour évaluer le  proje le README est complété avec les informations suivantes : 
 
 ### Description
 
