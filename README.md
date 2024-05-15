@@ -15,7 +15,7 @@ Pour évaluer le  proje le README est complété avec les informations suivantes
 
 ### Description
 
-*n France, le nombre d’apprentis continue de progresser autant dans le secteur public que privé. L’apprentissage est un tremplin pour s’insérer dans le monde du travail, il donne accès à de nombreux métiers dans des secteurs très variés.
+En France, le nombre d’apprentis continue de progresser autant dans le secteur public que privé. L’apprentissage est un tremplin pour s’insérer dans le monde du travail, il donne accès à de nombreux métiers dans des secteurs très variés.
 
 Les enjeux de politique publique sont forts, avec un besoin d’information pour l’orientation et le choix des filières Les choix de secteurs et d’entreprises sont complexes et de nombreux contrats d’apprentissage ne sont pas menés à terme.. 
 
